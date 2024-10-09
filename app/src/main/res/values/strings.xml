@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Budget Tracker</string>
+    <string name="app_title">Budget Tracker</string>
+    <string name="username_s">Username</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="password_s">Password</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="create_acc">Create an Account</string>
+    <string name="sign_in">Sign In</string>
+
+    <string name="register_account">Register Account</string>
+    <string name="confirm_s">Confirm Password</string>
+    <string name="confirm_hint">Confirm Password</string>
+    <string name="back">Back</string>
+    <string name="register">Register</string>
+
+    <string name="summary">Budget Summary</string>
+    <string name="income">Income: $ </string>
+    <string name="expenses">Expenses: $ </string>
+    <string name="net">Net Amount: $ </string>
+    <string name="recent">Recent Transactions/Income</string>
+    <string name="no_recent">No Recent Transactions or Income</string>
+    <string name="add_button">Add Transaction/Income</string>
+    <string name="see_button">See All Transactions/Income</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="add_title">Add a Transaction or Income</string>
+    <string name="radio_title">Transaction or Income?</string>
+    <string name="transaction_radio">Transaction</string>
+    <string name="income_radio">Income</string>
+    <string name="title_title">Title of Transaction/Income</string>
+    <string name="title_hint">Enter a Title</string>
+    <string name="amount_title">Amount (USD)</string>
+    <string name="amount_hint">Enter an Amount</string>
+    <string name="category_title">Category of Transaction/Income</string>
+    <string name="add_button_alt">Add</string>
+</resources>
